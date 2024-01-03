@@ -1,4 +1,4 @@
-package com.lilab.inventory.models;
+package com.lilab.operation.models;
 
 import lombok.Getter;
 import lombok.Setter;

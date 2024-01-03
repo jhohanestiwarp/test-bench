@@ -1,10 +1,10 @@
-package com.lilab.inventory;
+package com.lilab.operation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryApplicationTests {
+class OperationApplicationTests {
 
 	@Test
 	void contextLoads() {

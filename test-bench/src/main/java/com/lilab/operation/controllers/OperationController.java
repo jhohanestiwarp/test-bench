@@ -1,8 +1,8 @@
-package com.lilab.inventory.controllers;
+package com.lilab.operation.controllers;
 
 
-import com.lilab.inventory.models.OperationRequest;
-import com.lilab.inventory.models.OperationResponse;
+import com.lilab.operation.models.OperationRequest;
+import com.lilab.operation.models.OperationResponse;
 import org.springframework.web.bind.annotation.*;
 
 import java.text.DecimalFormat;
